@@ -9,6 +9,7 @@ body {
 
     /*border: 3px solid grey;*/
     text-align: center;
+    color: #0e1a40;
     
     
 }
@@ -19,7 +20,7 @@ body {
     padding: 20px 10;
     /*background: rgb(3, 93, 153);
     border: 3px solid red;*/
-    border-radius: 25px;
+    border-radius: 25px #0e1a40;
     
 }
 .assignment img { 
@@ -40,12 +41,13 @@ body {
 
 h1 {
 
-    color: black;
+    color: #0e1a40;
     text-align: center;
 }
 
 h2 {
     text-align: center;
+    color: #0e1a40;
     
 }
 
